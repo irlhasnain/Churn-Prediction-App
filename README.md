@@ -5,6 +5,7 @@ A complete end-to-end Machine Learning project that predicts whether a customer 
 ---
 
 ## 🚀 Live Demo
+[View Live Dashboard](https://churnpridictionapp.streamlit.app/)
 
 > Run the app locally by following the setup instructions below.
 
