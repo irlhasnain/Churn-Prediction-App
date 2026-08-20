@@ -119,8 +119,8 @@ streamlit run app.py
 Data Science Aspirant | Python • ML • SQL • Power BI  
 📍 Bhopal, Madhya Pradesh, India
 
-[![LinkedIn](https://www.linkedin.com/posts/hasnain-khan-9a3004326_datascience-machinelearning-python-activity-7427190073437196289-sD8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFI6AIsB3s1K7WDP-6V5_ahEkBOPYKI6Jt4)
-[![GitHub](https://github.com/irlhasnain)
+[LinkedIn](https://www.linkedin.com/in/hasnainkhan3011/)
+[GitHub](https://github.com/irlhasnain)
 
 ---
 
